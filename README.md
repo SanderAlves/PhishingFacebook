@@ -20,9 +20,9 @@ Desafio Bootcamp CIbersegurança DIO - Santander
 ### Resutados
 - A ferramenta não funcionou, então utilizei o ZPhisher.
 
-- ### ZPhisher
-- Clone do Zphisher: ``` git clone --depth=1 https://github.com/htr-tech/zphisher.git ´´´
-- Mudando o diretório após clonar o ZPhisher: ```  cd zphisher ´´´
-- Iniciando a ferramenta: ``` bash zphisher.sh ´´´
+### ZPhisher
+- Clone do Zphisher: ``` git clone --depth=1 https://github.com/htr-tech/zphisher.git ```
+- Mudando o diretório após clonar o ZPhisher: ```  cd zphisher ```
+- Iniciando a ferramenta: ``` bash zphisher.sh ```
 
 ### Resultados
